@@ -12,7 +12,7 @@
 
 ### Languages and Tools 🛠️
 
-Docker | AWS Cloud Platform | Jenkins | Git | VS code
+| Linux | Docker | AWS | Jenkins | Git | VS code
 </br>
 </br>
 ### Portfolio 📄
